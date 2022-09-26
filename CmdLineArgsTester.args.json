@@ -1,0 +1,10 @@
+{
+  "FileVersion": 2,
+  "Id": "429f2854-cf57-4aea-8a72-bcedf67349f2",
+  "Items": [
+    {
+      "Id": "c4711505-3cd1-4981-9317-59fda888c003",
+      "Command": "ahoj leto"
+    }
+  ]
+}

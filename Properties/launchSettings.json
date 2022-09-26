@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CmdLineArgsTester": {
+      "commandName": "Project",
+      "commandLineArgs": "ahoj leto"
+    }
+  }
+}
